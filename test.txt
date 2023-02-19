@@ -1,4 +1,4 @@
 This is my first commit!
 
 And here is commit two!
-another commit?
+This is a seperate commit.
